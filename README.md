@@ -5,6 +5,8 @@ I'm a web developer who is currently studying and working with **JavaScript**. I
 At my free time I like to create apps (using **React Native**) & games (using **C#**).
 Here you will see some of my personal projects. Most of them aren't 100% done because as I do them at my free time I always tend to skip to a different challenge.
 
+-----------------------------------------------
+
 🇧🇷
 ### E aí 👋
 Eu sou um desenvolvedor web que atualmente está estudando e trabalhando com **JavaScript**. Também tenho experiência com C# devido a meus últimos empregos.
