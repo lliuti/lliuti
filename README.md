@@ -14,6 +14,9 @@ No meu tempo livre gosto de criar aplicativos (utilizando **React Native**) & jo
 Aqui você vai encontrar alguns dos meus projetos pessoais. A maioria deles não está 100% terminado porque como os faço no meu tempo livre, costumo partir para um novo desafio.
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lliuti&theme=tokyonight)
+
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=lliuti.lliuti)
 <!--
