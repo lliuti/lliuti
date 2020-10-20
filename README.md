@@ -13,6 +13,9 @@ Eu sou um desenvolvedor web que atualmente está estudando e trabalhando com **J
 No meu tempo livre gosto de criar aplicativos (utilizando **React Native**) & jogos (utilizando **C#**).
 Aqui você vai encontrar alguns dos meus projetos pessoais. A maioria deles não está 100% terminado porque como os faço no meu tempo livre, costumo partir para um novo desafio.
 
+
+
+![](https://visitor-badge.laobi.icu/badge?page_id=lliuti.lliuti)
 <!--
 **lliuti/lliuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
