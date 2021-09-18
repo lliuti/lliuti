@@ -4,9 +4,16 @@ _english_
 
 ### Hi there 👋
 
-I'm a developer who is currently studying and working with **JavaScript**. I also have some experience with C# due to my last jobs.
+<!-- I'm a developer who is currently studying and working with **JavaScript**. I also have some experience with C# due to my last jobs.
 At my free time I like to create apps (using **React Native**) & games (using **C#**).
-Here you will see some of my personal projects. Most of them aren't 100% done because as I do them at my free time I always tend to skip to a different challenge.
+Here you will see some of my personal projects. Most of them aren't 100% done because as I do them at my free time I always tend to skip to a different challenge. -->
+
+Hi there
+I am a brazilian developer who is currently studying JavaScript and its surroundings. I'm **passionate** about technology and programming.
+Aside from JavaScript, I have minor professional experience with C# and **a lot** of small games that I made with it.
+I love to study and create backend APIs with Node.JS and consume them in my mobile apps created with React Native.
+Currently shifting from front-end/mobile (React, React Native) to back-end (NodeJS) but it does not mean that I will **permanently** stop changing the colors of buttons.
+
 <br>
 <br>
 
@@ -83,9 +90,13 @@ _portuguese_
 
 ### E aí 👋
 
-Eu sou um desenvolvedor que atualmente está estudando e trabalhando com **JavaScript**. Também tenho experiência com C# devido a meus últimos empregos.
+<!-- Eu sou um desenvolvedor que atualmente está estudando e trabalhando com **JavaScript**. Também tenho experiência com C# devido a meus últimos empregos.
 No meu tempo livre gosto de criar aplicativos (utilizando **React Native**) & jogos (utilizando **C#**).
-Aqui você vai encontrar alguns dos meus projetos pessoais. A maioria deles não está 100% terminado porque como os faço no meu tempo livre, costumo partir para um novo desafio.
+Aqui você vai encontrar alguns dos meus projetos pessoais. A maioria deles não está 100% terminado porque como os faço no meu tempo livre, costumo partir para um novo desafio. -->
+
+Eu sou um desenvolvedor que atualmente está estudando JavaScript e as tecnologias de seu ecossistema. Sou apaixonado por tecnologia e programacão. Além de JavaScript, tenho uma pequena experiencia profissional com C# e **vários** jogos (simples) que criei utilizando essa tecnologia. Gosto muito de estudar e criar APIs com Node.JS e as consumir nos aplicativos que crio com React Native.
+Atualmente estou migrando de front-end/mobile (React, React Native) para back-end (Node.JS) mas isso não significa que irei **parar** de mudar a cor de botões.
+
 <br>
 <br>
 
