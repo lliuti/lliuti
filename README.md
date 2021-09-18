@@ -54,7 +54,7 @@ Currently shifting from front-end/mobile (React, React Native) to back-end (Node
 
 💻 Currently learning Typescript
 
-👀 Looking for a Node.JS backend job
+👀 Looking for a Node.JS back-end job
 
 📝 Checkout my [resume](https://drive.google.com/file/d/1pdkxJD5MY1zVQWqOkr8OIZwOAVW24EcD/view?usp=sharing)
 
@@ -66,20 +66,52 @@ Currently shifting from front-end/mobile (React, React Native) to back-end (Node
 
 🎹 Music enthusiast
 
-<br>
-<br>
-
-![](https://media1.giphy.com/media/tTc43DeTm2kkJTrI2G/giphy.gif?cid=790b7611331251b552f45ad4f4e6a01398884487a0204a4a&rid=giphy.gif&ct=g)
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lliuti&layout=compact&theme=dracula)](https://github.com/lliuti/github-readme-stats)
 
 ![lliuti's GitHub stats](https://github-readme-stats.vercel.app/api?username=lliuti&show_icons=true&theme=dracula&hide=contribs) -->
 
 <br>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=lliuti.lliuti)
+```
+
+        ⭐                ⭐    .    .    .
+              🌟             .                 .
+    🌠                    .                        ☕
+      🪐               .                ⭐
+                    .
+                  .                                          ⭐
+                .                   🌟
+  ⭐          .
+             .           ⭐
+🌞          .
+          🚀                                    🌌
+        🌎
+                  🌘
+
+```
+
+> "Careers, like rockets, don't always take off on time. The trick is to always keep the engine running."
 
 <br>
+
+![](https://media1.giphy.com/media/tTc43DeTm2kkJTrI2G/giphy.gif?cid=790b7611331251b552f45ad4f4e6a01398884487a0204a4a&rid=giphy.gif&ct=g)
+
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
+### Other stuff...
+
+![Rick.JS](https://i.pinimg.com/564x/60/c1/4a/60c14a43fb4745795b3b358868517e79.jpg)
+
+<br>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=lliuti.lliuti)
+
 <br>
 
 ---
@@ -137,7 +169,7 @@ Atualmente estou migrando de front-end/mobile (React, React Native) para back-en
 
 💻 Atualmente estudando Typescript
 
-👀 Procuramento uma vaga para backend com Node.JS
+👀 Procuramento uma vaga para back-end com Node.JS
 
 📝 Confira meu [currículo](https://drive.google.com/file/d/1pdkxJD5MY1zVQWqOkr8OIZwOAVW24EcD/view?usp=sharing)
 
@@ -150,6 +182,27 @@ Atualmente estou migrando de front-end/mobile (React, React Native) para back-en
 🎹 Apaixonado por música
 
 <br>
+
+```
+
+        ⭐                ⭐    .    .    .
+              🌟             .                 .
+    🌠                    .                        ☕
+      🪐               .                ⭐
+                    .
+                  .                                          ⭐
+                .                   🌟
+  ⭐          .
+             .           ⭐
+🌞          .
+          🚀                                    🌌
+        🌎
+                  🌘
+
+```
+
+> "Carreiras, assim como foguetes, não partem sempre no tempo exato. O segredo é sempre manter o motor ligado"
+
 <br>
 
 ![](https://media0.giphy.com/media/efTCy9loCBqne/giphy.gif?cid=ecf05e478bq5wrigij4piwawci1cvq04c7p2l5spkg6xg3ql&rid=giphy.gif&ct=g)
@@ -157,10 +210,6 @@ Atualmente estou migrando de front-end/mobile (React, React Native) para back-en
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lliuti&layout=compact&theme=dracula)](https://github.com/lliuti/github-readme-stats)
 
 ![lliuti's GitHub stats](https://github-readme-stats.vercel.app/api?username=lliuti&show_icons=true&theme=dracula&hide=contribs) -->
-
-<br>
-
-![](https://visitor-badge.laobi.icu/badge?page_id=lliuti.lliuti)
 
 <!--
 **lliuti/lliuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -177,8 +226,6 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<br>
-<br>
 
 ---
 
@@ -188,3 +235,7 @@ Here are some ideas to get you started:
 ### Other stuff...
 
 ![Rick.JS](https://i.pinimg.com/564x/60/c1/4a/60c14a43fb4745795b3b358868517e79.jpg)
+
+<br>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=lliuti.lliuti)
