@@ -15,7 +15,6 @@ I love to study and create backend APIs with Node.JS and consume them in my mobi
 Currently shifting from front-end/mobile (React, React Native) to back-end (NodeJS) but it does not mean that I will **permanently** stop changing the colors of buttons.
 
 <br>
-<br>
 
 ### Languages I have studied/worked
 
@@ -97,11 +96,9 @@ Currently shifting from front-end/mobile (React, React Native) to back-end (Node
 ![](https://media1.giphy.com/media/tTc43DeTm2kkJTrI2G/giphy.gif?cid=790b7611331251b552f45ad4f4e6a01398884487a0204a4a&rid=giphy.gif&ct=g)
 
 <br>
-<br>
 
 ---
 
-<br>
 <br>
 
 ### Other stuff...
@@ -111,8 +108,6 @@ Currently shifting from front-end/mobile (React, React Native) to back-end (Node
 <br>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=lliuti.lliuti)
-
-<br>
 
 ---
 
@@ -129,7 +124,6 @@ Aqui você vai encontrar alguns dos meus projetos pessoais. A maioria deles não
 Eu sou um desenvolvedor que atualmente está estudando JavaScript e as tecnologias de seu ecossistema. Sou apaixonado por tecnologia e programacão. Além de JavaScript, tenho uma pequena experiencia profissional com C# e **vários** jogos (simples) que criei utilizando essa tecnologia. Gosto muito de estudar e criar APIs com Node.JS e as consumir nos aplicativos que crio com React Native.
 Atualmente estou migrando de front-end/mobile (React, React Native) para back-end (Node.JS) mas isso não significa que irei **parar** de mudar a cor de botões.
 
-<br>
 <br>
 
 ### Linguagens que estudei/trabalhei
@@ -225,11 +219,9 @@ Here are some ideas to get you started:
 -->
 
 <br>
-<br>
 
 ---
 
-<br>
 <br>
 
 ### Other stuff...
