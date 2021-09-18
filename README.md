@@ -116,7 +116,7 @@ Currently shifting from front-end/mobile (React, React Native) to back-end (Node
 
 ---
 
-_portuguese_
+_portugues_
 <br>
 <br>
 
