@@ -97,17 +97,9 @@ Currently shifting from front-end/mobile (React, React Native) to back-end (Node
 
 <br>
 
----
-
-<br>
-
-### Other stuff...
-
-![Rick.JS](https://i.pinimg.com/564x/60/c1/4a/60c14a43fb4745795b3b358868517e79.jpg)
-
-<br>
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=lliuti.lliuti)
+
+<br>
 
 ---
 
