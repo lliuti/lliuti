@@ -47,7 +47,7 @@ Currently shifting from front-end/mobile (React, React Native) to back-end (Node
 - [ ] Move to another country
 - [ ] Contribute to open-source projects
 - [x] Update my README.md
-- [ ] Create impactful projects
+- [ ] Create socially impactful projects
 
 <br>
 
@@ -149,7 +149,7 @@ Atualmente estou migrando de front-end/mobile (React, React Native) para back-en
 - [ ] Mudar de país
 - [ ] Contribuir para projetos open-source
 - [x] Atualizar meu README.md
-- [ ] Criar projetos impactantes
+- [ ] Criar projetos socialmente impactantes
 
 <br>
 
