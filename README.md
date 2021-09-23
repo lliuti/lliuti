@@ -41,6 +41,12 @@ Currently shifting from front-end/mobile (React, React Native) to back-end (Node
 
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lliuti&theme=dracula)](https://git.io/streak-stats)
+
+  <br>
+
 ### Task list
 
 - [x] Born
@@ -141,7 +147,13 @@ Atualmente estou migrando de front-end/mobile (React, React Native) para back-en
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 
-<br>
+  <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lliuti&theme=dracula)](https://git.io/streak-stats)
+
+  <br>
 
 ### Tarefas
 
