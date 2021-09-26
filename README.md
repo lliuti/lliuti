@@ -61,7 +61,7 @@ Currently shifting from front-end/mobile (React, React Native) to back-end (Node
 
 👀 Looking for a Node.JS back-end job
 
-📝 Checkout my [resume](https://drive.google.com/file/d/1pdkxJD5MY1zVQWqOkr8OIZwOAVW24EcD/view?usp=sharing)
+📝 Checkout my [resume](https://drive.google.com/file/d/1D1T6MP2owDT-BwJa5EbgpzxSMFPPYKxi/view?usp=sharing)
 
 🎮 One day I will make my own game
 
@@ -169,7 +169,7 @@ Atualmente estou migrando de front-end/mobile (React, React Native) para back-en
 
 👀 Procuramento uma vaga para back-end com Node.JS
 
-📝 Confira meu [currículo](https://drive.google.com/file/d/1pdkxJD5MY1zVQWqOkr8OIZwOAVW24EcD/view?usp=sharing)
+📝 Confira meu [currículo](https://drive.google.com/file/d/1D1T6MP2owDT-BwJa5EbgpzxSMFPPYKxi/view?usp=sharing)
 
 🎮 Um dia ainda farei meu próprio jogo
 
