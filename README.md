@@ -71,6 +71,14 @@ Currently shifting from front-end/mobile (React, React Native) to back-end (Node
 
 🎹 Music enthusiast
 
+<br>
+
+### Next technologies I will study
+
+- NestJS
+- IBM Watson
+- Websockets
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lliuti&layout=compact&theme=dracula)](https://github.com/lliuti/github-readme-stats)
 
 ![lliuti's GitHub stats](https://github-readme-stats.vercel.app/api?username=lliuti&show_icons=true&theme=dracula&hide=contribs) -->
@@ -178,6 +186,14 @@ Atualmente estou migrando de front-end/mobile (React, React Native) para back-en
 📺 Não, pai. Ainda não sei consertar a TV.
 
 🎹 Apaixonado por música
+
+<br>
+
+### Próximas tecnologias que irei estudar
+
+- NestJS
+- IBM Watson
+- Websockets
 
 <br>
 
