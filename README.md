@@ -76,6 +76,8 @@ Currently shifting from front-end/mobile (React, React Native) to back-end (Node
 ### Next technologies I will study
 
 - NestJS
+- Prisma
+- GraphQL
 - IBM Watson
 - Websockets
 
@@ -192,6 +194,8 @@ Atualmente estou migrando de front-end/mobile (React, React Native) para back-en
 ### Próximas tecnologias que irei estudar
 
 - NestJS
+- Prisma
+- GraphQL
 - IBM Watson
 - Websockets
 
