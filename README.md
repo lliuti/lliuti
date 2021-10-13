@@ -117,31 +117,31 @@ Currently shifting from front-end/mobile (React, React Native) to back-end (Node
 
 <br>
 
----
+<!-- ---
 
 _portugues_
 <br>
 <br>
 
-### E aí 👋
+### E aí 👋 -->
 
 <!-- Eu sou um desenvolvedor que atualmente está estudando e trabalhando com **JavaScript**. Também tenho experiência com C# devido a meus últimos empregos.
 No meu tempo livre gosto de criar aplicativos (utilizando **React Native**) & jogos (utilizando **C#**).
 Aqui você vai encontrar alguns dos meus projetos pessoais. A maioria deles não está 100% terminado porque como os faço no meu tempo livre, costumo partir para um novo desafio. -->
 
-Eu sou um desenvolvedor que atualmente está estudando JavaScript e as tecnologias de seu ecossistema. Sou apaixonado por tecnologia e programacão. Além de JavaScript, tenho uma pequena experiencia profissional com C# e **vários** jogos (simples) que criei utilizando essa tecnologia. Gosto muito de estudar e criar APIs com Node.JS e as consumir nos aplicativos que crio com React Native.
+<!-- Eu sou um desenvolvedor que atualmente está estudando JavaScript e as tecnologias de seu ecossistema. Sou apaixonado por tecnologia e programacão. Além de JavaScript, tenho uma pequena experiencia profissional com C# e **vários** jogos (simples) que criei utilizando essa tecnologia. Gosto muito de estudar e criar APIs com Node.JS e as consumir nos aplicativos que crio com React Native.
 Atualmente estou migrando de front-end/mobile (React, React Native) para back-end (Node.JS) mas isso não significa que irei **parar** de mudar a cor de botões.
 
-<br>
+<br> -->
 
-### Linguagens que estudei/trabalhei
+<!-- ### Linguagens que estudei/trabalhei
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 
-<br>
+<br> -->
 
-### Tecnologias que estudei/trabalhei
+<!-- ### Tecnologias que estudei/trabalhei
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -157,15 +157,15 @@ Atualmente estou migrando de front-end/mobile (React, React Native) para back-en
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 
-  <br>
+  <br> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lliuti&theme=dracula)](https://git.io/streak-stats)
 
-  <br>
+  <br> -->
 
-### Tarefas
+<!-- ### Tarefas
 
 - [x] Nascer
 - [ ] Mudar de país
@@ -173,9 +173,9 @@ Atualmente estou migrando de front-end/mobile (React, React Native) para back-en
 - [x] Atualizar meu README.md
 - [ ] Criar projetos socialmente impactantes
 
-<br>
+<br> -->
 
-💻 Atualmente estudando Typescript
+<!-- 💻 Atualmente estudando Typescript
 
 👀 Procuramento uma vaga para back-end com Node.JS
 
@@ -199,9 +199,9 @@ Atualmente estou migrando de front-end/mobile (React, React Native) para back-en
 - IBM Watson
 - Websockets
 
-<br>
+<br> -->
 
-```
+<!-- ```
 
         ⭐                ⭐    .    .    .
               🌟             .                 .
@@ -223,7 +223,7 @@ Atualmente estou migrando de front-end/mobile (React, React Native) para back-en
 
 <br>
 
-![](https://media0.giphy.com/media/efTCy9loCBqne/giphy.gif?cid=ecf05e478bq5wrigij4piwawci1cvq04c7p2l5spkg6xg3ql&rid=giphy.gif&ct=g)
+![](https://media0.giphy.com/media/efTCy9loCBqne/giphy.gif?cid=ecf05e478bq5wrigij4piwawci1cvq04c7p2l5spkg6xg3ql&rid=giphy.gif&ct=g) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lliuti&layout=compact&theme=dracula)](https://github.com/lliuti/github-readme-stats)
 
@@ -242,7 +242,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
+<!-- <br> -->
 
 ---
 
