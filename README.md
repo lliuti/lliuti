@@ -111,9 +111,9 @@ Currently shifting from front-end/mobile (React, React Native) to back-end (Node
 
 ![](https://media1.giphy.com/media/tTc43DeTm2kkJTrI2G/giphy.gif?cid=790b7611331251b552f45ad4f4e6a01398884487a0204a4a&rid=giphy.gif&ct=g)
 
-<br>
+<!-- <br> -->
 
-![](https://visitor-badge.laobi.icu/badge?page_id=lliuti.lliuti)
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=lliuti.lliuti) -->
 
 <br>
 
