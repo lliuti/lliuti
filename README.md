@@ -59,13 +59,11 @@ Currently shifting from front-end/mobile (React, React Native) to back-end (Node
 
 💻 Currently learning Typescript
 
-👀 Looking for a Node.JS back-end job
+👀 Looking for a remote NodeJS opportunity
 
 📝 Checkout my [resume](https://drive.google.com/file/d/1D1T6MP2owDT-BwJa5EbgpzxSMFPPYKxi/view?usp=sharing)
 
 🎮 One day I will make my own game
-
-😥 Wanted to show my GitHub stats but HTML is like 99% of my old projects
 
 📺 No, dad. I still don't know how to fix the TV
 
@@ -182,8 +180,6 @@ Atualmente estou migrando de front-end/mobile (React, React Native) para back-en
 📝 Confira meu [currículo](https://drive.google.com/file/d/1D1T6MP2owDT-BwJa5EbgpzxSMFPPYKxi/view?usp=sharing)
 
 🎮 Um dia ainda farei meu próprio jogo
-
-😥 Queria mostrar meus GitHub stats mas 99% dos projetos antigos são HTML
 
 📺 Não, pai. Ainda não sei consertar a TV.
 
