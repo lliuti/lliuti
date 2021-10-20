@@ -16,6 +16,12 @@ Currently shifting from front-end/mobile (React, React Native) to back-end (Node
 
 <br>
 
+### Get in touch
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/lucas-liuti/)
+
+<br>
+
 ### Languages I have studied/worked
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -47,7 +53,7 @@ Currently shifting from front-end/mobile (React, React Native) to back-end (Node
 
   <br>
 
-### Task list
+<!-- ### Task list
 
 - [x] Born
 - [ ] Move to another country
@@ -55,7 +61,9 @@ Currently shifting from front-end/mobile (React, React Native) to back-end (Node
 - [x] Update my README.md
 - [ ] Create socially impactful projects
 
-<br>
+<br> -->
+
+### Updates
 
 💻 Currently learning Typescript
 
