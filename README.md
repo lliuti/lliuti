@@ -50,7 +50,7 @@ Shifted from front-end/mobile (React, React Native) to back-end (NodeJS) but it 
 
 ### I am...
 
-💻 Currently learning Typescript
+💻 Building projects with Node + Typescript
 
 👀 Looking for a remote backend job
 
