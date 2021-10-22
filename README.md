@@ -64,13 +64,12 @@ Shifted from front-end/mobile (React, React Native) to back-end (NodeJS) but it 
 
 <br>
 
-### Next technologies I will study
+### Next technologies I will build projects with
 
-- [ ] NestJS
 - [x] Prisma
+- [x] Websockets
 - [ ] GraphQL
 - [ ] IBM Watson
-- [x] Websockets
 
 <br>
 
