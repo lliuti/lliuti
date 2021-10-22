@@ -64,7 +64,7 @@ Shifted from front-end/mobile (React, React Native) to back-end (NodeJS) but it 
 
 <br>
 
-### Next technologies I will build projects with
+## Next technologies I will build projects with
 
 - [x] Prisma
 - [x] Websockets
