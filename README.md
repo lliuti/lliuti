@@ -91,9 +91,7 @@ Shifted from front-end/mobile (React, React Native) to back-end (NodeJS) but it 
 
 ```
 
-> "Careers, like rockets, don't always take off on time. The trick is to always keep the engine running."
-
-<br>
+> ### "Careers, like rockets, don't always take off on time. The trick is to always keep the engine running."
 
 ---
 
