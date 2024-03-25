@@ -1,7 +1,10 @@
 # Hi there 👋🏻 I'm Lucas
 
 I am a brazilian game developer. <br>
-Aside from making games, I also have professional experience with web development technologies such as: React (and React Native), Typescript, HTML & CSS.
+Aside from making games, I also have professional experience with web development technologies such as: 
+- React (and React Native),
+- Typescript,
+- HTML & CSS.
 
 <br>
 
