@@ -42,13 +42,15 @@
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/liuti_dev/)
 [<img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:dev.lliuti@gmail.com)
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=lliuti&theme=blue-navy&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lliuti&layout=compact&hide_border=true&theme=blue_navy&langs_count=8&card_width=320" />
-</a>
+<div style="display: flex; align-items: center;>
+      <a href="https://github.com/lliuti">
+        <img height=200 align="center" src="https://streak-stats.demolab.com?user=lliuti&theme=blue-navy&hide_border=true&border_radius=5&hide_longest_streak=true" />
+      </a>
+      <a href="https://github.com/lliuti">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lliuti&layout=compact&hide_border=true&theme=blue_navy&langs_count=8&card_width=320" />
+      </a>
+</div>
 
-<br/><br/>
+<br/>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=lliuti.lliuti)
