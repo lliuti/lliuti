@@ -44,7 +44,7 @@
 
 <div style="display: flex; align-items: center;>
       <a href="https://github.com/lliuti">
-        <img height=200 align="center" src="https://streak-stats.demolab.com?user=lliuti&theme=blue-navy&hide_border=true&border_radius=5&hide_longest_streak=true" />
+        <img height=200 align="center" src="https://streak-stats.demolab.com?user=lliuti&theme=blue-navy&hide_border=true&border_radius=5&card_width=360&hide_longest_streak=true" />
       </a>
       <a href="https://github.com/lliuti">
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lliuti&layout=compact&hide_border=true&theme=blue_navy&langs_count=8&card_width=320" />
