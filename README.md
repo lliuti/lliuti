@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=32&duration=2000&pause=1000&color=0086F7&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+I+am+Lucas)](https://git.io/typing-svg) <br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&duration=2000&pause=1500&color=0086F7&vCenter=true&random=false&width=435&lines=I+am+a+Game+Programmer;Started+with+HTML%2C+CSS%2C+JS+;Then+React+%26+Typescript;And+now+with+C%23+and+Unity;I+MAKE+GAMES!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&duration=2000&pause=1500&color=0086F7&vCenter=true&random=false&width=435&lines=I+am+a+Game+Programmer;I+Started+with+HTML%2C+CSS+%26+JS+;I+Studied+React+%26+Typescript;And+now+with+C%23+and+Unity;I+MAKE+GAMES!)](https://git.io/typing-svg)
 
 <div>
       <img alt="Mario gif" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"/>
